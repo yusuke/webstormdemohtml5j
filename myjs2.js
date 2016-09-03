@@ -1,3 +1,3 @@
-function hello2() {
-    console.log("Hello");
+function helloWorld() {
+    document.writeln("Hello WebStorm");
 }
